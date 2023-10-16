@@ -6,10 +6,6 @@
 
 1. [Description](#description)
 2. [Project structure](#project-structure)
-3. [Walkthrough](#walkthrough)
-
-
-
 
 ## Description
 
